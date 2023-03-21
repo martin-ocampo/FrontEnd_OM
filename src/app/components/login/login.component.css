@@ -1,0 +1,23 @@
+.vh-100{
+    background-color:blueviolet ;
+}
+.container{
+    background-color: #81ee95;
+}
+.card-body{
+    background-color: rgb(30, 195, 8);
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #cb7711;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to rigth, rgb(17, 132, 203), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(7, 169, 75), rgb(7, 169, 75))
+    }
+
+    #text-white-50 {
+        text-decoration-color: rgb(231, 9, 9);
+    }
